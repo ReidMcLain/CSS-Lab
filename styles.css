@@ -4,7 +4,7 @@
   padding: 3em;
 }
 
-div.row > div {
+.row > div {
   height: 100px;
   width: 100px;
   float: left;
